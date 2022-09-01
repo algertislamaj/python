@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @darkraiderAL
+- 👋 Hi, I’m @Algert
 - 👀 I’m interested in everything that's beautiful
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything that's beautiful
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: algertislamaj@gmail.com
 
 <!---
